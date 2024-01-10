@@ -1,0 +1,13 @@
+npm install 
+Create package.json and package-lock.json files 
+create HTML and CSS files
+write JavaScript code
+connect to mongodb
+
+mongodb+srv://Name:<password>@registrationform.zlvmtej.mongodb.net/?retryWrites=true&w=majority
+
+After connecting using node.js run the code as following
+node index.js
+You can see the Registration Form in the browser on localhost 3000 as shown below
+<img src="C:\Users\swarn\OneDrive\Pictures\Screenshots\2024-01-10.png">
+<img src="C:\Users\swarn\OneDrive\Pictures\Screenshots\2024-01-10 (2).png">
